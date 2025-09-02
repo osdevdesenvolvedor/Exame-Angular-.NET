@@ -1,0 +1,6 @@
+C:\Users\Rafael\Downloads\Nova pasta (2)\Backend\ExameNet8\Exame.Tests\bin\Debug\net8.0\.msCoverageSourceRootsMapping_Exame.Tests
+C:\Users\Rafael\Downloads\Nova pasta (2)\Backend\ExameNet8\Exame.Tests\obj\Debug\net8.0\Exame.Tests.csproj.AssemblyReference.cache
+C:\Users\Rafael\Downloads\Nova pasta (2)\Backend\ExameNet8\Exame.Tests\obj\Debug\net8.0\Exame.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Downloads\Nova pasta (2)\Backend\ExameNet8\Exame.Tests\obj\Debug\net8.0\Exame.Tests.AssemblyInfoInputs.cache
+C:\Users\Rafael\Downloads\Nova pasta (2)\Backend\ExameNet8\Exame.Tests\obj\Debug\net8.0\Exame.Tests.AssemblyInfo.cs
+C:\Users\Rafael\Downloads\Nova pasta (2)\Backend\ExameNet8\Exame.Tests\obj\Debug\net8.0\Exame.Tests.csproj.CoreCompileInputs.cache

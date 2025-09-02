@@ -1,0 +1,368 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\src\\app\\core\\interceptors\\api-url.interceptor.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\core\\interceptors\\api-url.interceptor.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\src\\app\\core\\services\\api.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\core\\services\\api.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\src\\app\\core\\services\\api.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\core\\services\\api.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\src\\app\\features\\movimentos\\form\\movimento-form.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\movimentos\\form\\movimento-form.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\src\\app\\features\\movimentos\\list\\movimentos-list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\movimentos\\list\\movimentos-list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\src\\app\\shared\\models\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\shared\\models\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\src\\app\\api.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\api.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\src\\app\\api.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\api.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\src\\app\\movimento-form.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\movimento-form.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\src\\environments\\environment.prod.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\environments\\environment.prod.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\src\\environments\\environment.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\environments\\environment.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\karma.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:karma.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\tsconfig.app.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tsconfig.app.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\proxy.conf.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proxy.conf.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\tsconfig.spec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tsconfig.spec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "movimentos-list.component.ts",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\src\\app\\features\\movimentos\\list\\movimentos-list.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\features\\movimentos\\list\\movimentos-list.component.ts",
+              "ToolTip": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\src\\app\\features\\movimentos\\list\\movimentos-list.component.ts",
+              "RelativeToolTip": "src\\app\\features\\movimentos\\list\\movimentos-list.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-02T21:58:43.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.ts",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\src\\app\\shared\\models\\index.ts",
+              "RelativeDocumentMoniker": "src\\app\\shared\\models\\index.ts",
+              "ToolTip": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\src\\app\\shared\\models\\index.ts",
+              "RelativeToolTip": "src\\app\\shared\\models\\index.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-02T21:58:41.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "api.service.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\src\\app\\api.service.spec.ts",
+              "RelativeDocumentMoniker": "src\\app\\api.service.spec.ts",
+              "ToolTip": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\src\\app\\api.service.spec.ts",
+              "RelativeToolTip": "src\\app\\api.service.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-02T21:58:39.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "api.service.ts",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\src\\app\\api.service.ts",
+              "RelativeDocumentMoniker": "src\\app\\api.service.ts",
+              "ToolTip": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\src\\app\\api.service.ts",
+              "RelativeToolTip": "src\\app\\api.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-02T21:58:37.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\src\\app\\app.component.ts",
+              "RelativeToolTip": "src\\app\\app.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-02T21:58:35.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "app.routes.ts",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\src\\app\\app.routes.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.routes.ts",
+              "ToolTip": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\src\\app\\app.routes.ts",
+              "RelativeToolTip": "src\\app\\app.routes.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-02T21:58:33.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "movimento-form.component.ts",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\src\\app\\movimento-form.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\movimento-form.component.ts",
+              "ToolTip": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\src\\app\\movimento-form.component.ts",
+              "RelativeToolTip": "src\\app\\movimento-form.component.ts",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-02T21:58:30.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "environment.prod.ts",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\src\\environments\\environment.prod.ts",
+              "RelativeDocumentMoniker": "src\\environments\\environment.prod.ts",
+              "ToolTip": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\src\\environments\\environment.prod.ts",
+              "RelativeToolTip": "src\\environments\\environment.prod.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-02T21:58:25.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "environment.ts",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\src\\environments\\environment.ts",
+              "RelativeDocumentMoniker": "src\\environments\\environment.ts",
+              "ToolTip": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\src\\environments\\environment.ts",
+              "RelativeToolTip": "src\\environments\\environment.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-02T21:58:20.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "karma.conf.js",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\karma.conf.js",
+              "RelativeDocumentMoniker": "karma.conf.js",
+              "ToolTip": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\karma.conf.js",
+              "RelativeToolTip": "karma.conf.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-02T21:58:10.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-02T21:58:09.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "tsconfig.app.json",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\tsconfig.app.json",
+              "RelativeDocumentMoniker": "tsconfig.app.json",
+              "ToolTip": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\tsconfig.app.json",
+              "RelativeToolTip": "tsconfig.app.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-02T21:58:08.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "proxy.conf.json",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\proxy.conf.json",
+              "RelativeDocumentMoniker": "proxy.conf.json",
+              "ToolTip": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\proxy.conf.json",
+              "RelativeToolTip": "proxy.conf.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-02T21:58:08.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\tsconfig.json",
+              "RelativeDocumentMoniker": "tsconfig.json",
+              "ToolTip": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\tsconfig.json",
+              "RelativeToolTip": "tsconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-02T21:58:06.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "tsconfig.spec.json",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\tsconfig.spec.json",
+              "RelativeDocumentMoniker": "tsconfig.spec.json",
+              "ToolTip": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\tsconfig.spec.json",
+              "RelativeToolTip": "tsconfig.spec.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-02T21:58:05.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "angular.json",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\angular.json",
+              "RelativeDocumentMoniker": "angular.json",
+              "ToolTip": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\angular.json",
+              "RelativeToolTip": "angular.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-02T21:57:53.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "api.service.ts",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\src\\app\\core\\services\\api.service.ts",
+              "RelativeDocumentMoniker": "src\\app\\core\\services\\api.service.ts",
+              "ToolTip": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\src\\app\\core\\services\\api.service.ts",
+              "RelativeToolTip": "src\\app\\core\\services\\api.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-02T21:57:39.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "api.service.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\src\\app\\core\\services\\api.service.spec.ts",
+              "RelativeDocumentMoniker": "src\\app\\core\\services\\api.service.spec.ts",
+              "ToolTip": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\src\\app\\core\\services\\api.service.spec.ts",
+              "RelativeToolTip": "src\\app\\core\\services\\api.service.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-02T21:57:38.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "api-url.interceptor.ts",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\src\\app\\core\\interceptors\\api-url.interceptor.ts",
+              "RelativeDocumentMoniker": "src\\app\\core\\interceptors\\api-url.interceptor.ts",
+              "ToolTip": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\src\\app\\core\\interceptors\\api-url.interceptor.ts",
+              "RelativeToolTip": "src\\app\\core\\interceptors\\api-url.interceptor.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-02T21:57:36.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "movimento-form.component.ts",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\src\\app\\features\\movimentos\\form\\movimento-form.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\features\\movimentos\\form\\movimento-form.component.ts",
+              "ToolTip": "C:\\Users\\Rafael\\Downloads\\Nova pasta (2)\\Frontend\\exame-angular\\src\\app\\features\\movimentos\\form\\movimento-form.component.ts",
+              "RelativeToolTip": "src\\app\\features\\movimentos\\form\\movimento-form.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-02T21:57:32.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

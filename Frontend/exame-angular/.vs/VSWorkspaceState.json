@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\core",
+    "\\src\\app\\core\\interceptors",
+    "\\src\\app\\core\\services",
+    "\\src\\app\\features",
+    "\\src\\app\\features\\movimentos",
+    "\\src\\app\\features\\movimentos\\form",
+    "\\src\\app\\features\\movimentos\\list"
+  ],
+  "SelectedNode": "\\src\\app\\core\\interceptors\\api-url.interceptor.ts",
+  "PreviewInSolutionExplorer": false
+}

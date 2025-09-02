@@ -1,0 +1,12 @@
+C:\Users\Rafael\Downloads\Nova pasta (2)\Backend\ExameNet8\Exame.Domain\bin\Debug\net8.0\Exame.Domain.deps.json
+C:\Users\Rafael\Downloads\Nova pasta (2)\Backend\ExameNet8\Exame.Domain\bin\Debug\net8.0\Exame.Domain.dll
+C:\Users\Rafael\Downloads\Nova pasta (2)\Backend\ExameNet8\Exame.Domain\bin\Debug\net8.0\Exame.Domain.pdb
+C:\Users\Rafael\Downloads\Nova pasta (2)\Backend\ExameNet8\Exame.Domain\obj\Debug\net8.0\Exame.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Downloads\Nova pasta (2)\Backend\ExameNet8\Exame.Domain\obj\Debug\net8.0\Exame.Domain.AssemblyInfoInputs.cache
+C:\Users\Rafael\Downloads\Nova pasta (2)\Backend\ExameNet8\Exame.Domain\obj\Debug\net8.0\Exame.Domain.AssemblyInfo.cs
+C:\Users\Rafael\Downloads\Nova pasta (2)\Backend\ExameNet8\Exame.Domain\obj\Debug\net8.0\Exame.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Downloads\Nova pasta (2)\Backend\ExameNet8\Exame.Domain\obj\Debug\net8.0\Exame.Domain.dll
+C:\Users\Rafael\Downloads\Nova pasta (2)\Backend\ExameNet8\Exame.Domain\obj\Debug\net8.0\refint\Exame.Domain.dll
+C:\Users\Rafael\Downloads\Nova pasta (2)\Backend\ExameNet8\Exame.Domain\obj\Debug\net8.0\Exame.Domain.pdb
+C:\Users\Rafael\Downloads\Nova pasta (2)\Backend\ExameNet8\Exame.Domain\obj\Debug\net8.0\ref\Exame.Domain.dll
+C:\Users\Rafael\Downloads\Nova pasta (2)\Backend\ExameNet8\Exame.Domain\obj\Debug\net8.0\Exame.Domain.csproj.AssemblyReference.cache

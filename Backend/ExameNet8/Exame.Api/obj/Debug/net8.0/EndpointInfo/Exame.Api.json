@@ -1,0 +1,136 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Exame.Api",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Movimentos": {
+      "get": {
+        "tags": [
+          "Movimentos"
+        ],
+        "parameters": [
+          {
+            "name": "mes",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "ano",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Movimentos"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/IncluirMovimentoManualDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/IncluirMovimentoManualDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/IncluirMovimentoManualDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Produtos": {
+      "get": {
+        "tags": [
+          "Produtos"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Produtos/{codProduto}/cosifs": {
+      "get": {
+        "tags": [
+          "Produtos"
+        ],
+        "parameters": [
+          {
+            "name": "codProduto",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "IncluirMovimentoManualDto": {
+        "type": "object",
+        "properties": {
+          "daT_MES": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "daT_ANO": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "coD_PRODUTO": {
+            "type": "string",
+            "nullable": true
+          },
+          "coD_COSIF": {
+            "type": "string",
+            "nullable": true
+          },
+          "vaL_VALOR": {
+            "type": "number",
+            "format": "double"
+          },
+          "deS_DESCRICAO": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

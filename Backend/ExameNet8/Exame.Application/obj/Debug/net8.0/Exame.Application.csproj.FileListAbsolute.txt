@@ -1,0 +1,15 @@
+C:\Users\Rafael\Downloads\Nova pasta (2)\Backend\ExameNet8\Exame.Application\obj\Debug\net8.0\Exame.Application.csproj.AssemblyReference.cache
+C:\Users\Rafael\Downloads\Nova pasta (2)\Backend\ExameNet8\Exame.Application\obj\Debug\net8.0\Exame.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Downloads\Nova pasta (2)\Backend\ExameNet8\Exame.Application\obj\Debug\net8.0\Exame.Application.AssemblyInfoInputs.cache
+C:\Users\Rafael\Downloads\Nova pasta (2)\Backend\ExameNet8\Exame.Application\obj\Debug\net8.0\Exame.Application.AssemblyInfo.cs
+C:\Users\Rafael\Downloads\Nova pasta (2)\Backend\ExameNet8\Exame.Application\obj\Debug\net8.0\Exame.Application.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Downloads\Nova pasta (2)\Backend\ExameNet8\Exame.Application\bin\Debug\net8.0\Exame.Application.deps.json
+C:\Users\Rafael\Downloads\Nova pasta (2)\Backend\ExameNet8\Exame.Application\bin\Debug\net8.0\Exame.Application.dll
+C:\Users\Rafael\Downloads\Nova pasta (2)\Backend\ExameNet8\Exame.Application\bin\Debug\net8.0\Exame.Application.pdb
+C:\Users\Rafael\Downloads\Nova pasta (2)\Backend\ExameNet8\Exame.Application\bin\Debug\net8.0\Exame.Domain.dll
+C:\Users\Rafael\Downloads\Nova pasta (2)\Backend\ExameNet8\Exame.Application\bin\Debug\net8.0\Exame.Domain.pdb
+C:\Users\Rafael\Downloads\Nova pasta (2)\Backend\ExameNet8\Exame.Application\obj\Debug\net8.0\Exame.Ap.CB3C1183.Up2Date
+C:\Users\Rafael\Downloads\Nova pasta (2)\Backend\ExameNet8\Exame.Application\obj\Debug\net8.0\Exame.Application.dll
+C:\Users\Rafael\Downloads\Nova pasta (2)\Backend\ExameNet8\Exame.Application\obj\Debug\net8.0\refint\Exame.Application.dll
+C:\Users\Rafael\Downloads\Nova pasta (2)\Backend\ExameNet8\Exame.Application\obj\Debug\net8.0\Exame.Application.pdb
+C:\Users\Rafael\Downloads\Nova pasta (2)\Backend\ExameNet8\Exame.Application\obj\Debug\net8.0\ref\Exame.Application.dll

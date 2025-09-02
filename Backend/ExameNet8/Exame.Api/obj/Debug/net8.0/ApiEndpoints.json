@@ -1,0 +1,65 @@
+[
+  {
+    "ContainingType": "Exame.Api.Controllers.MovimentosController",
+    "Method": "Get",
+    "RelativePath": "api/Movimentos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mes",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "ano",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Exame.Api.Controllers.MovimentosController",
+    "Method": "Post",
+    "RelativePath": "api/Movimentos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "Exame.Application.DTOs.IncluirMovimentoManualDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Exame.Api.Controllers.ProdutosController",
+    "Method": "GetProdutos",
+    "RelativePath": "api/Produtos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Exame.Api.Controllers.ProdutosController",
+    "Method": "GetCosifs",
+    "RelativePath": "api/Produtos/{codProduto}/cosifs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codProduto",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

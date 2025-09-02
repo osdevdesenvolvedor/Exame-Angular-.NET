@@ -1,16 +1,37 @@
-├── Backend/ExameNet8/          # API RESTful .NET 8 + EF Core 8
-│   ├── Exame.Domain/           # Entidades, interfaces e contratos
-│   ├── Exame.Application/      # DTOs e regras de aplicação (services)
-│   ├── Exame.Infrastructure/   # DbContext, Repositórios, UoW
-│   ├── Exame.Api/              # ASP.NET Core Web API com Swagger
-│   └── Exame.Tests/            # Testes unitários com xUnit + Moq
-│
-├── Frontend/APP/               # Aplicação Angular 17 organizada por camadas
-│   └── src/
-│       ├── app/
-│       │   ├── core/           # Serviços, interceptors
-│       │   ├── shared/         # Modelos tipados
-│       │   └── features/       # Componentes de listagem e formulário
-│
-├── Database/
-│   └── 001_create_and_seed.sql  # Script SQL com estrutura e dados de seed
+🔹 Backend
+
+ASP.NET Core 8 (Web API)
+
+Entity Framework Core 8
+
+Repository Pattern + Unit of Work
+
+Swagger (Swashbuckle)
+
+xUnit + Moq (testes unitários)
+
+Injeção de dependência nativa
+
+🔹 Frontend
+
+Angular 17
+
+TypeScript, Signal API, NgModules Standalone
+
+Jasmine + Karma (testes unitários)
+
+Proxy (/api) configurado via proxy.conf.json
+
+Organização modular: core/, shared/, features/
+
+🔹 Banco de Dados
+
+SQL Server (pode ser LocalDB)
+
+Script .sql contendo:
+
+Criação das tabelas PRODUTO, PRODUTO_COSIF, MOVIMENTO_MANUAL
+
+Chaves primárias e estrangeiras
+
+Seeds de produtos e movimentos

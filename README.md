@@ -1,4 +1,4 @@
-🔹 Backend
+ Backend
 
 ASP.NET Core 8 (Web API)
 
@@ -12,7 +12,7 @@ xUnit + Moq (testes unitários)
 
 Injeção de dependência nativa
 
-🔹 Frontend
+ Frontend
 
 Angular 17
 
@@ -24,7 +24,7 @@ Proxy (/api) configurado via proxy.conf.json
 
 Organização modular: core/, shared/, features/
 
-🔹 Banco de Dados
+ Banco de Dados
 
 SQL Server (pode ser LocalDB)
 
